@@ -1,0 +1,6 @@
+[submodule "shopify-challenge-frontend"]
+	path = shopify-challenge-frontend
+	url = https://github.com/hongthang152/shopify-challenge-frontend.git
+[submodule "shopify-challenge-backend"]
+	path = shopify-challenge-backend
+	url = https://github.com/hongthang152/shopify-challenge-backend.git
