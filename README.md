@@ -4,7 +4,7 @@
 
 ## Installation ⚙️
 
-For running frontend application in a development environment, please refer to this [README](https://github.com/hongthang152/shopify-challenge-frontend/tree/2a0602d08bd1e421122eb5e46904fc1ffb3c0453). 
+For running frontend application in a development environment, please refer to this [README](https://github.com/hongthang152/shopify-challenge-frontend/tree/5f7a86b9b178320d93407275491aac59db7e7ab0). 
 
 For backend application, please refer to this [README](https://github.com/hongthang152/shopify-challenge-backend/tree/17712c57439f122062dc2312a92366f78f6088a1)
 
